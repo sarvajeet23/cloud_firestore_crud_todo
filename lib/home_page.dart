@@ -30,7 +30,6 @@ class HomePage extends StatelessWidget {
           }
 
           final todos = snapshot.data!;
-          log("Todos: $todos");
 
           return ListView.builder(
             itemCount: todos.length,

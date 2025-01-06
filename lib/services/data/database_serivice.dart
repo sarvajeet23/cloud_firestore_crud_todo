@@ -13,7 +13,7 @@ class DatabaseService {
         return TodoModel.fromJson(doc.data(), id: doc.id);
       }).toList();
     });
-  }
+  } 
 
   // Add a new Todo to Firestore
   Future<void> addTodo(TodoModel todo) async {

@@ -12,7 +12,20 @@
           "package_name": "com.example.cloud_firestore_crud_todo"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "51331421992-pfbf0avmubotb5g4mhmqs1s488s4ihnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloud_firestore_crud_todo",
+            "certificate_hash": "88c518d37ca6b5d3d3eca8db4634b81baf3e1f71"
+          }
+        },
+        {
+          "client_id": "51331421992-9o27pthacgur2ta0mp046epvdekqj4kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCdG-zuBEY5pjptOJRlgwZk4Tyj2uQjHKI"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51331421992-9o27pthacgur2ta0mp046epvdekqj4kc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51331421992-65hc1j03eqe2sbqn42s7uve934mfsfn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloudFirestoreCrudTodo"
+              }
+            }
+          ]
         }
       }
     }
